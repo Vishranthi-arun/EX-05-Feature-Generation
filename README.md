@@ -197,7 +197,8 @@ df4
 ![enc5](https://user-images.githubusercontent.com/93427278/166729207-8d03c979-0023-4e78-9595-8ce77206bcb4.png)
 
 ## Feature encoding using Label Encoder
-![enc6](https://user-images.githubusercontent.com/93427278/166729325-0daf75c4-ba75-48fc-b5c1-8e25ecd052d0.png)
+![ds ex05-01](https://user-images.githubusercontent.com/93427278/166867596-54d033ac-cd02-4c29-954c-7176732484cf.png)
+![ds ex05-02](https://user-images.githubusercontent.com/93427278/166867603-52ef9b02-9f21-497a-b9ef-a137dfcdafe8.png)
 
 ## Feature scaling using Standard Scaler
 ![enc7](https://user-images.githubusercontent.com/93427278/166729355-c096d36e-4f6e-4582-9058-74b9f456c473.png)
